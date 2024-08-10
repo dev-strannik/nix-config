@@ -120,6 +120,7 @@
   tldr
   bat
   zathura
+  fastfetch
   ];
 
   services.mullvad-vpn.enable = true;
